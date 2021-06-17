@@ -12,3 +12,4 @@ The World Happiness Report is a landmark survey of the state of global happiness
 - Plotly
 
 ### 3-d plot at the end of code
+![Image](https://raw.githubusercontent.com/Anshal55/EDA-World-Happiiness_Report/main/3dplotly.png)
